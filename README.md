@@ -1,6 +1,6 @@
 👋 Hi, I’m Md. Masum Mia. I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! Highly passionate and hardworking fresher looking for an opportunity to work in a challenging organization to utilize my skills and knowledge to work for the growth of the organization. if you're looking for a developer to add to your team, I'd love to hear from you! <br/>
 👀 I’m interested in exploring new technology. <br/>
-🌱 I’m currently studying in department of CSE at Rajshahi University of Engineering and Technology, Rajshahi, Bangaladesh. <br/>
+🌱  I’m currently studying in the department of CSE at Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh. <br/>
 
 :coffee: &emsp;Click to Connect:
 
