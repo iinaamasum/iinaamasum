@@ -30,8 +30,11 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=iinaamasum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iinaamasum&theme=dark&hide_border=true)
+![Commit](https://github-readme-stats.vercel.app/api?username=iinaamasum&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Guthub Stats](https://github-readme-streak-stats.herokuapp.com/?user=iinaamasum&theme=tokyonight&hide_border=true)
+![Leet Code](https://stats.justsong.cn/api/leetcode/?username=iinaamasum&theme=dark)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=iinaamasum&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## ✍️ Dev Quote
 
