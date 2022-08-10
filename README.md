@@ -9,7 +9,8 @@
        alt="snake" /></a>
 </div>
 
-
+---
+![](https://komarev.com/ghpvc/?username=iinaamasum&color=dc143c)
 ## 🙍 About Me:
 
 👋 I'm a web developer with a concentration on the MERN stack, but I'm also interested in other technologies and frameworks! Highly motivated and dedicated developer seeking a chance to work in a challenging business where I can apply my skills and expertise to help the organization grow. If you're searching for a developer to join your team, please contact me! <br/>
@@ -37,4 +38,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://komarev.com/ghpvc/?username=iinaamasum&color=dc143c)
+
