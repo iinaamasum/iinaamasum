@@ -7,15 +7,15 @@
 
 
 <p align="center">
+   <a href="https://github.com/iinaamasum/">
+    <img src="https://komarev.com/ghpvc/?username=iinaamasum&color=dc143c" alt="visitors" />
+  </a>
   <a href="https://leetcode.com/iinaamasum/">
     <img src="https://cp-logo.vercel.app/leetcode/iinaamasum" alt="Leet code rating" />
   </a>
   </a>
   <a href="https://github.com/iinaamasum?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/iinaamasum?color=red&logo=github">
-  </a>
-  <a href="https://github.com/iinaamasum/">
-    <img src="https://komarev.com/ghpvc/?username=iinaamasum&color=dc143c" alt="visitors" />
   </a>
 </p>
 
