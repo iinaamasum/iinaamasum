@@ -19,13 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/iinaamasum/">
-<img src="https://github-profile-trophy.vercel.app/?username=iinaamasum" alt="iinaamasum" />
-</a> 
-</p>
-
-
 
 ## 🙍 Bio
 - 🏢 I'm currently working at **Hirable**
@@ -64,7 +57,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iinaamasum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iinaamasum&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinaamasum&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://leetcard.jacoblin.cool/iinaamasum?theme=light&font=Karma&ext=contest"/>
+<img height="180em" src="https://leetcard.jacoblin.cool/iinaamasum?theme=light&font=arial&ext=contest"/>
+</p>
+
+<p align="center">
+<img align=top src="https://github-profile-trophy.vercel.app/?username=iinaamasum" alt="iinaamasum" />
 </p>
 
 
