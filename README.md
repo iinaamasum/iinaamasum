@@ -60,8 +60,8 @@
 <img height="180em" src="https://leetcard.jacoblin.cool/iinaamasum?theme=light&font=arial&ext=contest"/>
 </p>
 
-<p align="center">
-<img align=top src="https://github-profile-trophy.vercel.app/?username=iinaamasum" alt="iinaamasum" />
+<p float="left">
+<img align="top" float="left" src="https://github-profile-trophy.vercel.app/?username=iinaamasum" alt="iinaamasum" />
 </p>
 
 
