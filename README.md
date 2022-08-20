@@ -41,7 +41,7 @@
 
 
 
-## 🌐 Click to Connect:
+## 🌐 Click to Connect
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iinaamasum/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iinaamasum/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iinaamasum@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iinaamasum/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white)](https://iinaamasum-3ec05.web.app/)
 
@@ -63,6 +63,6 @@
 
 ## ✍️ Dev Quote
 <p align="center"> 
-<img height="180rm" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
 
