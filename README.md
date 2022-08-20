@@ -35,7 +35,7 @@
 
 ## ⏰ Now
 
-- ✨ Contributing to [Hirable](https://www.linkedin.com/company/hirable-me/mycompany/);
+- ✨ Contributing to [Hirable](https://www.linkedin.com/company/hirable-me/mycompany/)
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to JS based open source projects 
 
