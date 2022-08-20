@@ -19,6 +19,13 @@
   </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/iinaamasum/">
+<img src="https://github-profile-trophy.vercel.app/?username=iinaamasum" alt="iinaamasum" />
+</a> 
+</p>
+
+
 
 ## 🙍 Bio
 - 🏢 I'm currently working at **Hirable**
