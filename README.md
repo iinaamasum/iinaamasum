@@ -21,7 +21,7 @@
 
 
 ## 🙍 Bio
-- 🏢 I'm currently working at **Hirable**
+- 🏢 I'm currently working at `Hirable`
 - ⚙️ I use daily:  `.js`,  `.cpp`,  `.jsx`,  `.css`,  `.html`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about `Next Js`,  `Redux`, `Node Js`
