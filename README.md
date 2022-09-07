@@ -19,6 +19,27 @@
   </a>
 </p>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/iinaamasum/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+   <a href="https://www.facebook.com/iinaamasum/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="mailto:iinaamasum@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+  </a>
+  <a href="https://iinaamasum-3ec05.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://twitter.com/iinaamasum/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+</p>
+
+
+
 
 ## 🙍 Bio
 - 🏢 I'm currently working at `Hirable`
@@ -41,9 +62,14 @@
 
 
 
-## 🌐 Click to Connect
+## 📊 Stats
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iinaamasum/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iinaamasum/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iinaamasum@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iinaamasum/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white)](https://iinaamasum-3ec05.web.app/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iinaamasum&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iinaamasum&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iinaamasum&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iinaamasum&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iinaamasum&theme=github_dark&utcOffset=3)
+![](https://leetcard.jacoblin.cool/iinaamasum?theme=dark&font=roboto&ext=contest)
 
 
 ## 👨‍💻 Expert in
@@ -51,22 +77,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,c,cpp,heroku,git,github,gitlab,firebase,figma,vscode,redux,netlify)](https://www.linkedin.com/in/iinaamasum/)
 
 
-## 📊 Stats
-
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iinaamasum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iinaamasum&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinaamasum&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://leetcard.jacoblin.cool/iinaamasum?theme=light&font=arial&ext=contest"/>
-</p>
-
-<p float="left">
-<img align="top" float="left" src="https://github-profile-trophy.vercel.app/?username=iinaamasum" alt="iinaamasum" />
-</p>
-
-
 ## ✍️ Dev Quote
 <p align="center"> 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
