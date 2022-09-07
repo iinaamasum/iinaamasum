@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Md. Masum Mia</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+
+[![](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=DC143C&vCenter=true&width=250&height=35&lines=MERN+Stack+Developer;Software+Engineer;Problem+Solver)](https://www.linkedin.com/in/iinaamasum/)
+
 <p align="center">I'm a web developer with a concentration on the MERN stack, but I'm also interested in other technologies and frameworks! Highly motivated and dedicated developer seeking a chance to work in a challenging business where I can apply my skills and expertise to help the organization grow. If you're searching for a developer to join your team, please contact me! </p>
 </div>
 
@@ -38,10 +40,18 @@
   </a>
 </p>
 
+<details>
+ <summary>🏆 Github Profile Trophy</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/iinaamasum">
+   <img src="https://github-profile-trophy.vercel.app/?username=iinaamasum&column=8&theme=darkhub"/>
+  </a>
+ </p>
+</details>
 
 
-
-## 🙍 Bio
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Bio
 - 🏢 I'm currently working at `Hirable`
 - ⚙️ I use daily:  `.js`,  `.cpp`,  `.jsx`,  `.css`,  `.html`
 - 🌍 I'm mostly active within the **LinkedIn**
@@ -62,14 +72,13 @@
 
 
 
-## 📊 Stats
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iinaamasum&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iinaamasum&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iinaamasum&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iinaamasum&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iinaamasum&theme=github_dark&utcOffset=3)
-![](https://leetcard.jacoblin.cool/iinaamasum?theme=dark&font=roboto&ext=contest)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iinaamasum&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iinaamasum&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iinaamasum&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iinaamasum&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iinaamasum&theme=radical&utcOffset=3)
 
 
 ## 👨‍💻 Expert in
@@ -79,6 +88,6 @@
 
 ## ✍️ Dev Quote
 <p align="center"> 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
