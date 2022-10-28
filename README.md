@@ -52,7 +52,8 @@
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Bio
-- 🏢 I'm currently working at `Hirable`
+
+<!--- - 🏢 I'm currently working at `Hirable` -->
 - ⚙️ I use daily:  `.js`,  `.cpp`,  `.jsx`,  `.css`,  `.html`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about `Next Js`,  `Redux`, `Node Js`
@@ -66,7 +67,7 @@
 
 ## ⏰ Now
 
-- ✨ Contributing to [Hirable](https://www.linkedin.com/company/hirable-me/mycompany/)
+<!--- - ✨ Contributing to [Hirable](https://www.linkedin.com/company/hirable-me/mycompany/) -->
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to JS based open source projects 
 
