@@ -65,11 +65,14 @@
 - :hearts: I like **playing cricket, competitive programming, and web development**.
 
 
-## ⏰ Now
+## ⏰ Goal
 
 <!--- - ✨ Contributing to [Hirable](https://www.linkedin.com/company/hirable-me/mycompany/) -->
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to JS based open source projects 
+- :fire: Year 2023
+1. Solve 300+ LeetCode problem
+2. Explore Machine Learning and complete at least 3 projects
+3. Learn SQL and python for backend development and complete 5+ projects
+- :calendar: Goal update in every month - last update (01-12-2022)
 
 
 
