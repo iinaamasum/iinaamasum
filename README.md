@@ -72,7 +72,7 @@
 1. Solve 300+ LeetCode problem
 2. Explore Machine Learning and complete at least 3 projects
 3. Learn SQL and python for backend development and complete 5+ projects
-- :calendar: Goal update in every month - last update (01-12-2022)
+- :calendar: Solved 42 LeetCode problems and basic intro to ML - last updated at (01-01-2023)
 
 
 
