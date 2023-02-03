@@ -65,15 +65,25 @@
 - :hearts: I like **playing cricket, competitive programming, and web development**.
 
 
-## ⏰ Goal
-
-<!--- - ✨ Contributing to [Hirable](https://www.linkedin.com/company/hirable-me/mycompany/) -->
-- :fire: Year 2023
-1. Solve 300+ LeetCode problem
+## ⏰ Goals
+### :fire: Year 2023
+1. Solve 300+ LeetCode abd Codeforces problems
 2. Explore Machine Learning and complete at least 3 projects
 3. Learn SQL and python for backend development and complete 5+ projects
-- :calendar: Solved 42 LeetCode problems and basic intro to ML - last updated at (01-01-2023)
+- :calendar: Total 95 Solved - 42 LeetCode problems, 53 Codeforces problems and basic intro to ML - last updated at (3rd Feb, 2023)
 
+### :fire: Year 2022
+1. Learn Web Development (React, NodeJs, ExpressJS, MongoDB, JS, CSS, HTML, Firebase, Tailwind CSS, Bootstrap, Redux).
+2. Complete 10 web projects and prepare a CV for intern.
+3. Try to catch an intern in web development field.
+- :calendar: Done all (Intern at Hirable) (14th Dec, 2022)
+
+
+### :fire: Year 2020 - 2021
+1. Learn Programming
+2. Solve problems in UVA, Codeforces and Vjudge at least 300.
+3. Participate at least 15 contests.
+- :calendar: Done all (2nd Nov, 2021)
 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Stats
