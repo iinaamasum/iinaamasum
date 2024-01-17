@@ -54,10 +54,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Bio
 
 <!--- - 🏢 I'm currently working at `Hirable` -->
-- ⚙️ I use daily:  `.js`,  `.cpp`,  `.jsx`,  `.css`,  `.html`
+- ⚙️ I use daily:  `.py`, `.js`,  `.cpp`,  `.jsx`,  `.css`,  `.html`
 - 🌍 I'm mostly active within the **LinkedIn**
-- 🌱 Learning all about `Next Js`,  `Redux`, `Node Js`
-- 💬 Ping me about `React Js`,  `JavaScript`,  `Express Js`,  `RestAPIs`,  `Tailwind CSS`
+- 🌱 Learning all about `CNN`, `NLP`, `Next Js`,  `Redux`, `Node Js`
+- 💬 Ping me about `ML`, `React Js`,  `JavaScript`,  `Express Js`,  `RestAPIs`,  `Tailwind CSS`
 - 📫 Reach me: [linkedin.com/in/iinaamasum/](https://www.linkedin.com/in/iinaamasum/)
 - :e-mail: Email Me: iinaamasum@gmail.com <br/>
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1N-wdH0WSxzJ27JE8TzgLusAVQZdI3y7b/view).
@@ -66,23 +66,32 @@
 
 
 ## ⏰ Goals
+### :fire: Year 2024
+1. Paper publication - target 3
+2. Learn image, audio, and text processing techniques.
+3. Try to be a specialist in Codeforces.
+- :calendar: Mission started.
+
 ### :fire: Year 2023
-1. Solve 300+ LeetCode abd Codeforces problems
+1. Solve 300+ LeetCode and Codeforces problems
 2. Explore Machine Learning and complete at least 3 projects
-3. Learn SQL and python for backend development and complete 5+ projects
-- :calendar: Total 95 Solved - 42 LeetCode problems, 53 Codeforces problems and basic intro to ML - last updated at (3rd Feb, 2023)
+3. Learn SQL and Python for backend development and complete 5+ projects
+- :calendar: Completed(1, 2), Learning(3) - (17th Jan, 2024)
+- 🏆 Pupil in Codeforces (Max Rating 1310)
+- 🏆 Working at Remotasks
 
 ### :fire: Year 2022
 1. Learn Web Development (React, NodeJs, ExpressJS, MongoDB, JS, CSS, HTML, Firebase, Tailwind CSS, Bootstrap, Redux).
-2. Complete 10 web projects and prepare a CV for intern.
-3. Try to catch an intern in web development field.
-- :calendar: Done all (Intern at Hirable) (14th Dec, 2022)
+2. Complete 10 web projects and prepare a CV for an intern.
+3. Try to catch an intern in the web development field.
+- :calendar: Done all (14th Dec, 2022)
+- 🏆 Intern at Hirable
 
 
 ### :fire: Year 2020 - 2021
 1. Learn Programming
-2. Solve problems in UVA, Codeforces and Vjudge at least 300.
-3. Participate at least 15 contests.
+2. Solve problems in UVA, Codeforces, and Vjudge at least 300.
+3. Participate in at least 15 contests.
 - :calendar: Done all (2nd Nov, 2021)
 
 
