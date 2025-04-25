@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Md. Masum Mia</h1>
+  <h1 align="center">Hi,<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Md. Masum Mia</h1>
 
   [![](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=DC143C&vCenter=true&width=250&height=35&lines=MERN+Stack+Development;Computer+Vision;Problem+Solving)](https://www.linkedin.com/in/iinaamasum/)
 
