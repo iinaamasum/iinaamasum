@@ -66,25 +66,40 @@
 3. Secure a job in AI/ML
 * :calendar: Mission Started
 
-### :fire: Year 2024
-<details>
-  <summary>Year 2023</summary>
-  1. Solve 300+ LeetCode and Codeforces problems
-  2. Explore Machine Learning and complete 3 projects
-  3. Learn SQL and Python for backend development and complete 5+ projects
-  * :calendar: Completed (1, 2), Learning (3) - (17th Jan, 2024)
-  * 🏆 Achieved Pupil rank in Codeforces (Max Rating 1310)
-  * 🏆 Worked at Remotasks
-</details>
+### :fire: Year 2025
+1. Publish 3 journal papers
+2. Enhance my knowledge in Computer Vision
+3. Secure a job in AI/ML
+  * :calendar: Mission Started
 
-<details>
-  <summary>Year 2022</summary>
-  1. Learn Web Development (React, NodeJs, ExpressJS, MongoDB, JS, CSS, HTML, Firebase, Tailwind CSS, Bootstrap, Redux)
-  2. Complete 10 web projects and prepare a CV for an intern
-  3. Secure an internship in web development
-  * :calendar: Completed all goals (14th Dec, 2022)
-  * 🏆 Interned at Hirable
-</details>
+### :fire: Year 2024
+1. Publish 3 research papers
+2. Gain extensive knowledge in Computer Vision
+3. Aim to become a specialist in Codeforces
+  * :calendar: Paper Published - 1, working on the second paper.
+  * Completed tasks (2)
+  * Unable to focus on problem-solving this year as I was fully devoted to academics and AI.
+
+### :fire: Year 2023
+1. Solve 300+ LeetCode and Codeforces problems
+2. Explore Machine Learning and complete at least 3 projects
+3. Learn SQL and Python for backend development and complete 5+ projects
+  * :calendar: Completed(1, 2), Learning(3) - (17th Jan, 2024)
+  * 🏆 Pupil in Codeforces (Max Rating 1310)
+  * 🏆 Working at Remotasks
+
+### :fire: Year 2022
+1. Learn Web Development (React, NodeJs, ExpressJS, MongoDB, JS, CSS, HTML, Firebase, Tailwind CSS, Bootstrap, Redux).
+2. Complete 10 web projects and prepare a CV for an intern.
+3. Try to catch an intern in the web development field.
+  * :calendar: Done all (14th Dec, 2022)
+  * 🏆 Intern at Hirable
+
+### :fire: Year 2020-2021
+1. Learn Programming
+2. Solve problems in UVA, Codeforces, and Vjudge at least 300.
+3. Participate in at least 15 contests.
+  * :calendar: Done all (2nd Nov, 2021)
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Stats
 
